@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <body>
         <head>
@@ -9,4 +9,4 @@
             My first
         </h1>
     <body>
-</html>
+<html>
